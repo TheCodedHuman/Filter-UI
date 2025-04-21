@@ -1,0 +1,8 @@
+4. Filter UI Based on Category
+Objective: Build a user interface that filters items based on selected categories.
+Requirements:
+● Display a set of filter buttons (e.g., All, Shoes, Clothes, Accessories).
+● Show multiple items (in a card/grid layout) with category labels.
+● Filter displayed items based on the selected category.
+Technical Focus:
+● JavaScript logic to filter visible elements based on category.
